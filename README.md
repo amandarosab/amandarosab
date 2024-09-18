@@ -1,5 +1,5 @@
 <h1>👋 Olá Mundo, Eu sou a Amanda!</h1>
-Sou especialista em RH e agora desenvolvedora Java em início de carreira
+Especialista em RH e agora desenvolvedora Java em início de carreira
 
 ## 🔧 Habilidades e tecnologias
 
