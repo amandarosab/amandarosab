@@ -1,5 +1,5 @@
 <h1>👋🏻 Hello world,</h1> 
-Desenvolvedora júnior focada em backend, atualmente aprendendo Java 🚀
+Me chamo Amanda, desenvolvedora focada em backend, atualmente aprendendo Java 🚀
 
 [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)]([https://www.reddit.com/u/SEUUSERNAME](https://www.reddit.com/user/Vast_Belt8086/)) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://www.instagram.com/ambelooo/) [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandarosaabelo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/amandarosab/)
 
