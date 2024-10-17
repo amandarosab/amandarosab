@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1&color=F7F7F7&width=900&height=100&lines=Hello+World!;I'm+Amanda+Rosa%2C)](https://git.io/typing-svg)
-- Tenho 23 anos 🎲
+- Tenho 23 anos  👩🏻‍💻
 - Moro em São Paulo 🏙️
-- Sou estudante de Engenharia de Software 👩🏻‍💻
-- Em busca de estágio (primeira oportunidade na área) ⭐️
+- Estudante de Engenharia de Software 👾
+- Em busca de estágio (primeira oportunidade na área) ✨
 
 #
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandarosab&theme=outrun) 
@@ -34,7 +34,7 @@
 - [Blog: Amanda Desenvolve](https://amandadesenvolve.blogspot.com/)
   
 
-## Redes sociais 📱
+## 📱 Redes sociais 
 
 [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Vast_Belt8086/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://www.instagram.com/ambelooo/) [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amandarosaabelo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/amandarosab/)
 
