@@ -7,7 +7,7 @@
 #
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandarosab&theme=outrun) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amandarosab&theme=outrun)
-#
+
 
 ## 💻 Linguagens de programação
 
