@@ -4,6 +4,7 @@
 - Sou estudante de Engenharia de Software 👩🏻‍💻
 - Em busca de estágio (primeira oportunidade na área) ⭐️
 
+#
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandarosab&theme=outrun) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amandarosab&theme=outrun)
 
