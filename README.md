@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1&color=F7F7F7&width=900&height=100&lines=Hello+World!;I'm+Amanda+Rosa%2C)](https://git.io/typing-svg)
+- Tenho 23 anos 🎲
+- Moro em São Paulo 🏙️
+- Sou estudante de Engenharia de Software 👩🏻‍💻
+- Em busca de estágio (primeira oportunidade na área) ⭐️
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandarosab&theme=outrun) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amandarosab&theme=outrun)
