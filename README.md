@@ -2,7 +2,7 @@
 - Tenho 23 anos  👩🏻‍💻
 - Moro em São Paulo 🏙️
 - Estudante de Engenharia de Software 👾
-- Em busca de estágio (primeira oportunidade na área) ✨
+- Em busca de estágio (primeira oportunidade em Java) ✨
 
 #
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amandarosab&theme=outrun) 
