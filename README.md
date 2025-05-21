@@ -41,4 +41,3 @@
 
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Francine02/Francine02/output/snake.svg" />
