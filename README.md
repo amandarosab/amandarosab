@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1&color=04E1F7&width=900&height=100&lines=Hello+World!;I'm+Amanda+Rosa%2C)](https://git.io/typing-svg)
-- Tenho 24 anos  👩🏻‍💻
-- Moro em São Paulo 🏙️
-- Sou pós graduada em Psicologia Organizacional ✨
-- Atualmente estudante de Engenharia de Software 👾
+- Tenho 24 anos
+- Moro em São Paulo
+- Sou pós graduada em Psicologia Organizacional
+- Atualmente estudante de Engenharia de Software 
 - Minha meta é tornar o RH mais humanizado e tecnológico 
 
 #
